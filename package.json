@@ -1,0 +1,18 @@
+{
+  "name": "typeof-checker",
+  "version": "1.0.0",
+  "description": "A simple rushed typeof() checker.",
+  "main": "index.js",
+  "author": "Two",
+  "directories": {
+    "example": "examples"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/real2two/typeof-checker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/real2two/typeof-checker/issues"
+  },
+  "homepage": "https://github.com/real2two/typeof-checker#readme"
+}
